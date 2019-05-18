@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="TV 2 SUMO">
+
+<listeners>
+
+<listener class-name="ExtentReport.ExtentReporterNG"/>
+</listeners>
+
+  <test name="Test">
+    <packages>
+      <package name="LoginPage.*"/>
+        
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
