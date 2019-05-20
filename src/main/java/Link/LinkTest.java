@@ -23,6 +23,7 @@ public class LinkTest {
 		driver.get("https://sumo.tv2.no");
 		
 		Thread.sleep(watingTime);
+		Thread.sleep(2000);
 		
 		driver.findElement(By.xpath("//a[text()='Se alle pakkene våre']")).click();
 		Thread.sleep(watingTime);

@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-05-16T14:09:48Z" name="TV 2 SUMO" finished-at="2019-05-16T14:10:01Z" duration-ms="12552">
+  <suite started-at="2019-05-20T07:23:36Z" name="TV 2 SUMO" finished-at="2019-05-20T07:23:51Z" duration-ms="14396">
     <groups>
     </groups>
-    <test started-at="2019-05-16T14:09:48Z" name="Test" finished-at="2019-05-16T14:10:01Z" duration-ms="12552">
+    <test started-at="2019-05-20T07:23:36Z" name="Test" finished-at="2019-05-20T07:23:51Z" duration-ms="14396">
       <class name="LoginPage.NewTest">
-        <test-method signature="first()[pri:0, instance:LoginPage.NewTest@704d6e83]" started-at="2019-05-16T16:09:48Z" name="first" finished-at="2019-05-16T16:10:01Z" duration-ms="12535" status="PASS">
+        <test-method signature="first()[pri:0, instance:LoginPage.NewTest@6a192cfe]" started-at="2019-05-20T09:23:36Z" name="first" finished-at="2019-05-20T09:23:51Z" duration-ms="14375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
-        <test-method signature="second()[pri:0, instance:LoginPage.NewTest@704d6e83]" started-at="2019-05-16T16:10:01Z" name="second" finished-at="2019-05-16T16:10:01Z" duration-ms="1" status="PASS">
+        <test-method signature="second()[pri:0, instance:LoginPage.NewTest@6a192cfe]" started-at="2019-05-20T09:23:51Z" name="second" finished-at="2019-05-20T09:23:51Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- second -->
       </class> <!-- LoginPage.NewTest -->
       <class name="LoginPage.NewTest1">
-        <test-method signature="fourth()[pri:0, instance:LoginPage.NewTest1@3578436e]" started-at="2019-05-16T16:10:01Z" name="fourth" finished-at="2019-05-16T16:10:01Z" duration-ms="0" status="PASS">
+        <test-method signature="fourth()[pri:0, instance:LoginPage.NewTest1@3835c46]" started-at="2019-05-20T09:23:51Z" name="fourth" finished-at="2019-05-20T09:23:51Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fourth -->
-        <test-method signature="third()[pri:0, instance:LoginPage.NewTest1@3578436e]" started-at="2019-05-16T16:10:01Z" name="third" finished-at="2019-05-16T16:10:01Z" duration-ms="0" status="PASS">
+        <test-method signature="third()[pri:0, instance:LoginPage.NewTest1@3835c46]" started-at="2019-05-20T09:23:51Z" name="third" finished-at="2019-05-20T09:23:51Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- third -->
